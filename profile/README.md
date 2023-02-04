@@ -1,3 +1,3 @@
-# Cleanar
+# Clean Arch
 
 [WIP]
